@@ -1,6 +1,4 @@
-[![MasterHead](https://github.com/4ur1X/4ur1X/blob/main/banner.png)](https://itsronit.me)
-
-### Hi there 👋
+### Hi there 👋 You've been hacked!
 
 <!--
 **4ur1X/4ur1X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
